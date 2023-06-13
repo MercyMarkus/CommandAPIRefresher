@@ -2,7 +2,7 @@ using CommandAPI.Data;
 using CommandAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CommandAPI.AddControllers
+namespace CommandAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
